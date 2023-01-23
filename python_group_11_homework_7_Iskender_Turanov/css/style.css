@@ -1,0 +1,179 @@
+body {
+    font-family: 'Raleway',
+        sans-serif;
+}
+
+.header {
+    background-color: #5bbc2e;
+}
+.navbar-brand{
+    margin-right: 80px;
+}
+.navbar .nav-item {
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+    margin-right: 40px;
+    text-transform: uppercase;
+}
+
+.Main-btn {
+    padding: 7px 40px 7px 40px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.modal-title {
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.modal-header, .Submit-btn {
+    background-color: #5bbc2e;
+}
+.Form-input {
+    background-color: #f3faf0;
+
+}
+.Pic-arrow {
+    font-size: 50px;
+    color: #5bbc2e;
+}
+.carousel-indicators {
+    padding-bottom: 20px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: transparent;
+    border: 3px solid #5bbc2e;
+    opacity: 1;
+}
+
+.carousel-indicators .active {
+    background: #5bbc2e;
+    width: 12px;
+    height: 12px;
+}
+
+.Main-Header {
+    font-size: 48px;
+    color: #000;
+    font-weight: 800;
+    text-transform: uppercase;
+    max-width: 750px;
+    margin: 0 auto 80px auto;
+}
+
+.Main-Header span {
+    font-size: 48px;
+    color: #5bbc2e;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.caption {
+    font-size: 30px;
+    color: #8d8d8d;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.caption span {
+    color: #5bbc2e;
+}
+
+.Block-text {
+    font-size: 15px;
+    color: #767575;
+    font-weight: 400;
+}
+
+.First-Text {
+    padding: 20px 0;
+    margin-bottom: 0;
+}
+
+.List {
+    padding: 20px 0;
+    background-color: #f5f5f5;
+
+}
+
+.List ul {
+    list-style-image: url(../images/arrow.png);
+}
+
+.caption-3 {
+    padding: 50px 0;
+}
+
+.card {
+    padding: 0;
+    border-radius: 0;
+}
+
+.card img {
+    border-radius: 0;
+}
+
+.cards h5 {
+    font-size: 12px;
+    color: #4b4b4b;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0;
+
+}
+
+.cards a {
+    max-width: 100%;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    border-radius: 0;
+    padding: 8px 30px 5px 30px;
+}
+
+.card-body {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.one,
+.seven {
+    background-color: rgb(27, 152, 202);
+}
+
+.two,
+.five {
+    background-color: rgb(32, 170, 78);
+}
+
+.three,
+.eight {
+    background-color: rgb(214, 23, 135);
+}
+
+.four,
+.six {
+    background-color: rgb(173, 204, 37);
+}
+
+.footer {
+    background-color: #141414;
+    color: #e0e0e0;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 35px 0;
+    margin-top: 140px;
+}
+
+.footer p {
+    margin: 0;
+}
